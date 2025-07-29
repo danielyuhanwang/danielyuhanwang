@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-I'm Daniel, a second-year undergraduate Statistics and Data Science student at Yale College. I'm currently learning about deep learning architectures, computer vision, and natural language processing, and exploring careers in business analytics, data analytics, data science, and machine learning.
-
+I'm Daniel, a third-year undergraduate Statistics and Data Science student at Yale College.
 <!--
 **danielyuhanwang/danielyuhanwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
